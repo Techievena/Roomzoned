@@ -2,6 +2,7 @@ from nose.tools import *
 import Roomzoned
 
 def setup():
+	# Setup test variables
 	print("SETUP DONE!")
 
 def teardown():
