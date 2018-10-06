@@ -5,7 +5,7 @@ def setup():
 	print("SETUP DONE!")
 
 def teardown():
-	print("TEAR DOWN!")
+	print("TEAR DOWN ALL THE TEST COMMANDS!")
 
 def test_basic():
 	print("I RAN!")
