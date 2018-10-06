@@ -2,7 +2,7 @@ from nose.tools import *
 import Roomzoned
 
 def setup():
-	print("SETUP!")
+	print("SETUP DONE!")
 
 def teardown():
 	print("TEAR DOWN!")
