@@ -11,4 +11,5 @@ def teardown():
 
 def test_basic():
 	# Finish command
+	# Setup commands
 	print("I RAN!")
