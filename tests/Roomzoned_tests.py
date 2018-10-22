@@ -2,14 +2,10 @@ from nose.tools import *
 import Roomzoned
 
 def setup():
-	# Setup test variables
 	print("SETUP DONE!")
 
 def teardown():
-	# Teardown test variables
-	print("TEAR DOWN ALL THE TEST COMMANDS!")
+	print("TEAR DOWN ALL THE TEST COMMAND VARIABLES!")
 
 def test_basic():
-	# Finish command
-	# Setup commands
-	print("I RAN!")
+	print("RUN THE TESTS!")
